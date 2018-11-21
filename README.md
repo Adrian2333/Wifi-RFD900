@@ -1,20 +1,23 @@
 # Wifi
+* Password: ardupilot
 
-ESP-01 default baud rate 921600: 
-need to decrease to 57600 to work with RFD 900X
+* Wifi configuring IP: http://192.168.4.1/
 
-Password: ardupilot
+* Flashing Firmware
+ 
+Download: http://firmware.ardupilot.org/Tools/MAVESP8266/latest/firmware-esp12e.bin\
 
-Wifi configuring IP: http://192.168.4.1/
+![](https://github.com/Adrian2333/Wifi-RFD900/blob/master/img/esp8266_flashing_ftdi.jpg)
+FTDI moudule: power the ESP-01 with *Vcc* instead of *3.3v* to give stable voltage
 
 Original page: http://ardupilot.org/copter/docs/common-esp8266-telemetry.html?highlight=wifi
 
-## Moudule Flashing notes: 
-Use this firmware: http://firmware.ardupilot.org/Tools/MAVESP8266/latest/firmware-esp12e.bin\
-
-FTDI moudule: power the ESP-01 with *Vcc* instead of *3.3v* to give stable voltage
+# RFD 900
 
 ## Pinouts
+<img src ="https://github.com/Adrian2333/Wifi-RFD900/blob/master/img/RFD900_Physical_pins.jpg">
+
+
 
 
 
