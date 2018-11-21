@@ -14,3 +14,7 @@ Use this firmware: http://firmware.ardupilot.org/Tools/MAVESP8266/latest/firmwar
 
 FTDI moudule: power the ESP-01 with *Vcc* instead of *3.3v* to give stable voltage
 
+## Pinouts
+
+
+
