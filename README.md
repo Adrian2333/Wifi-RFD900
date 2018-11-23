@@ -7,6 +7,8 @@
  
 Download: http://firmware.ardupilot.org/Tools/MAVESP8266/latest/firmware-esp12e.bin\
 
+![](https://github.com/Adrian2333/Wifi-RFD900/blob/master/img/esp8266_pinout.jpg)
+
 ![](https://github.com/Adrian2333/Wifi-RFD900/blob/master/img/esp8266_flashing_ftdi.jpg)
 
 FTDI moudule: power the ESP-01 with *Vcc* instead of *3.3v* to give stable voltage
